@@ -1,6 +1,6 @@
 # ProgPort
  
- <a href="https://github.com/VexelB/porfol">Портфолио с помощью Markdown</a>
+ <a href="https://github.com/VexelB/porfol" target="_blank">Портфолио с помощью Markdown</a>
 
  <a href="https://repl.it/@VexelB/ProgFLab">Первая лабораторная</a>
 
