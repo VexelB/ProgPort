@@ -23,3 +23,15 @@
 <a href="https://repl.it/@VexelB/Prog2211">СР 22.11</a>
 
 <a href="https://repl.it/@VexelB/Prog612">СР 6.12</a>
+
+<a href="https://github.com/VexelB/prog1202">СР 12.02</a>
+
+<a href="https://github.com/VexelB/prog1602">СР 16.02</a>
+
+<a href="https://github.com/VexelB/prog1604">СР 16.04</a>
+
+<a href="https://github.com/VexelB/prog2105">СР 21.05</a>
+
+<a href="https://github.com/VexelB/prog2805">СР 28.05</a>
+
+<a href="https://github.com/VexelB/game">Моя игра</a>
