@@ -48,4 +48,6 @@
 
 [t3](https://github.com/python-advance/t3-gui-VexelB)
 
+[t4](https://github.com/python-advance/t4-env-VexelB/blob/master/vsr1.py)
+
 [API для изменения размерешения изображения](https://github.com/VexelB/img_resizer)
