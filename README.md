@@ -36,9 +36,15 @@
 
 <a href="https://github.com/VexelB/game">Моя игра</a>
 
-[t1](https://github.com/python-advance/t1-datascienceintro-VexelB)
+[t1 lr1](https://github.com/python-advance/t1-datascienceintro-VexelB/blob/master/lr1.py)
 
-[t2](https://github.com/python-advance/t2-generators-VexelB)
+[t1 lr2](https://github.com/python-advance/t1-datascienceintro-VexelB/blob/master/lr2.py)
+
+[t2 lr1](https://github.com/python-advance/t2-generators-VexelB/blob/master/lr1.py)
+
+[t2 lr2](https://github.com/python-advance/t2-generators-VexelB/blob/master/lr2.py)
+
+[t2 lr3](https://github.com/python-advance/t2-generators-VexelB/blob/master/lr3.py)
 
 [t3](https://github.com/python-advance/t3-gui-VexelB)
 
