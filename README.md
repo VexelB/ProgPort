@@ -35,3 +35,9 @@
 <a href="https://github.com/VexelB/prog2805">СР 28.05</a>
 
 <a href="https://github.com/VexelB/game">Моя игра</a>
+
+[t1](https://github.com/python-advance/t1-datascienceintro-VexelB)
+
+[t2](https://github.com/python-advance/t2-generators-VexelB)
+
+[t3](https://github.com/python-advance/t3-gui-VexelB)
