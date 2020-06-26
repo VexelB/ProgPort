@@ -41,3 +41,5 @@
 [t2](https://github.com/python-advance/t2-generators-VexelB)
 
 [t3](https://github.com/python-advance/t3-gui-VexelB)
+
+[API для изменения размерешения изображения](https://github.com/VexelB/img_resizer)
