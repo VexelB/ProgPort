@@ -36,6 +36,10 @@
 
 <a href="https://github.com/VexelB/game">Моя игра</a>
 
+[sem5 t3](https://github.com/python-advance/sem5-t4-VexelB/blob/master/t3.py)
+
+[sem5 t4](https://github.com/python-advance/sem5-t4-VexelB/blob/master/lr.py)
+
 [t1 lr1](https://github.com/python-advance/t1-datascienceintro-VexelB/blob/master/lr1.py)
 
 [t1 lr2](https://github.com/python-advance/t1-datascienceintro-VexelB/blob/master/lr2.py)
