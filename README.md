@@ -55,3 +55,5 @@
 [t4](https://github.com/python-advance/t4-env-VexelB/blob/master/vsr1.py)
 
 [API для изменения размерешения изображения](https://github.com/VexelB/img_resizer)
+
+[Доп задание экзамена](https://repl.it/@VexelB/AmazingWingedPipeline#main.py)
