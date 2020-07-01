@@ -1,8 +1,10 @@
 # ProgPort
- 
- <a href="https://github.com/VexelB/porfol" target="_blank">Портфолио с помощью Markdown</a>
 
- <a href="https://repl.it/@VexelB/ProgFLab">Первая лабораторная</a>
+## Sem 3
+
+<a href="https://github.com/VexelB/porfol" target="_blank">Портфолио с помощью Markdown</a>
+
+<a href="https://repl.it/@VexelB/ProgFLab">Первая лабораторная</a>
 
 <a href="https://repl.it/@VexelB/Prog2009">СР 20.09</a>
 
@@ -25,6 +27,8 @@
 <a href="https://repl.it/@VexelB/Prog612">СР 6.12</a>
 
 <a href="https://github.com/VexelB/prog1202">СР 12.02</a>
+
+## Sem 4
 
 <a href="https://github.com/VexelB/prog1602">СР 16.02</a>
 
